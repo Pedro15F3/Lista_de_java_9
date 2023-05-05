@@ -1,4 +1,4 @@
-public class App {
+public class Exercicio1 {
     public static void main(String args[]) {
             verificar("Hoje tem aula de POOI");
             verificar("verdade");
